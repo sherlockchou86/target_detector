@@ -1,3 +1,5 @@
+
+# for this project only
 *.jpg
 *.jpeg
 *.png
@@ -6,6 +8,22 @@
 *.h5
 logs/
 *_test.py
+
+
+# for dataset tool only
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
