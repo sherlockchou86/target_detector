@@ -1,5 +1,8 @@
-people
+person
 car
+bus
 truck
 bike
 motobike
+fire
+smoke

@@ -13,7 +13,7 @@ namespace image_marker
     public partial class Main : Form
     {
         Dictionary<String, List<BoundingBox>> _all_data = new Dictionary<string, List<BoundingBox>>();
-        String image_folder = "training_images";
+        public static String image_folder = "training_images";
         String annotation_file = "generated_annotation.txt";
         String classes_file = "default_classes.txt";
 
@@ -190,7 +190,7 @@ namespace image_marker
             if (_all_data.Count == 0)
                 return;
 
-            Image image = Image.FromFile(_all_data.Keys.ToList()[current_index]);
+            Image image = Image.FromFile(textBox1.Text + "\\" + _all_data.Keys.ToList()[current_index]);
 
             double scale_ui = (double)image_container.Width / image_container.Height;
             double scale_im = (double)image.Width / image.Height;
@@ -360,6 +360,40 @@ namespace image_marker
             });
 
             image_panel.Invalidate();
+        }
+
+        /// <summary>
+        /// double click to delete bounding box
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void listBox1_DoubleClick(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedItem != null)
+            {
+                if (MessageBox.Show("delete this bounding box?", "delete confirm", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.OK)
+                {
+                    _all_data[textBox2.Text].Remove(listBox1.SelectedItem as BoundingBox);
+                    listBox1.Items.Remove(listBox1.SelectedItem);
+                }
+            }
+        }
+
+        /// <summary>
+        /// save to annotation file
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if (_all_data.Count != 0)
+            {
+                string path = textBox1.Text + "\\" + annotation_file;
+
+                int count = Utils.SaveToAnnotation(_all_data, path);
+
+                MessageBox.Show("saved total " + count + " lines!");
+            }
         }
     }
 }

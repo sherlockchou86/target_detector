@@ -3,6 +3,8 @@
 *.jpg
 *.jpeg
 *.png
+*.gif
+*.bmp
 *.mp4
 *.weights
 *.h5

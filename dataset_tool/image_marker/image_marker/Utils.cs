@@ -23,7 +23,7 @@ namespace image_marker
 
             foreach (String f in flist)
             {
-                dict.Add(f, new List<BoundingBox>());
+                dict.Add(f.Substring(f.IndexOf(Main.image_folder)), new List<BoundingBox>());
             }
 
             return dict;
@@ -45,39 +45,40 @@ namespace image_marker
              * .\dataset\training_images\2.jpg 200,186,435,505,2 120,28,243,116,8
              * .......
              */
-
+            Dictionary<String, List<BoundingBox>> dict = new Dictionary<string, List<BoundingBox>>();
             using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
             {
-                StreamReader reader = new StreamReader(fs);
-                Dictionary<String, List<BoundingBox>> dict = new Dictionary<string, List<BoundingBox>>();
-
-                String line = null;
-                String[] cols = null;
-                String[] items = null;
-                String key = null;
-
-                while (!reader.EndOfStream)
+                using (StreamReader reader = new StreamReader(fs))
                 {
-                    line = reader.ReadLine();
 
-                    cols = line.Split(' ');
+                    String line = null;
+                    String[] cols = null;
+                    String[] items = null;
+                    String key = null;
 
-                    if (cols != null && cols.Length >= 2)
+                    while (!reader.EndOfStream)
                     {
-                        for (int i = 1; i < cols.Length; ++i)
+                        line = reader.ReadLine();
+
+                        cols = line.Split(' ');
+
+                        if (cols != null && cols.Length >= 2)
                         {
-                            items = cols[i].Split(',');
-
-                            if (items.Length == 5)
+                            for (int i = 1; i < cols.Length; ++i)
                             {
-                                key = cols[0];
+                                items = cols[i].Split(',');
 
-                                if (!dict.ContainsKey(key))
+                                if (items.Length == 5)
                                 {
-                                    dict.Add(key, new List<BoundingBox>());
-                                }
+                                    key = cols[0];
 
-                                dict[key].Add(new BoundingBox() { IsSelected = false, Image_Path = key, Region = new System.Drawing.Rectangle(int.Parse(items[0]), int.Parse(items[1]), int.Parse(items[2]) - int.Parse(items[0]), int.Parse(items[3]) - int.Parse(items[1])), Class_ID = int.Parse(items[4]) });
+                                    if (!dict.ContainsKey(key))
+                                    {
+                                        dict.Add(key, new List<BoundingBox>());
+                                    }
+
+                                    dict[key].Add(new BoundingBox() { IsSelected = false, Image_Path = key, Region = new System.Drawing.Rectangle(int.Parse(items[0]), int.Parse(items[1]), int.Parse(items[2]) - int.Parse(items[0]), int.Parse(items[3]) - int.Parse(items[1])), Class_ID = int.Parse(items[4]) });
+                                }
                             }
                         }
                     }
@@ -99,19 +100,60 @@ namespace image_marker
 
             using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read))
             {
-                StreamReader reader = new StreamReader(fs);
-                String line = null;
-
-                while (!reader.EndOfStream)
+                using (StreamReader reader = new StreamReader(fs))
                 {
-                    line = reader.ReadLine();
+                    String line = null;
 
-                    l.Add(line);
+                    while (!reader.EndOfStream)
+                    {
+                        line = reader.ReadLine();
+
+                        l.Add(line);
+                    }
+                    Classes = l;
                 }
-                Classes = l;
             }
 
             return l.Count != 0;
+        }
+
+        /// <summary>
+        /// save to annotation file with specific format
+        /// </summary>
+        /// <param name="all_data"></param>
+        /// <returns></returns>
+        public static int SaveToAnnotation(Dictionary<String, List<BoundingBox>> all_data, String path)
+        {
+            int count = 0;
+            using (FileStream fs = new FileStream(path, FileMode.Create, FileAccess.Write))
+            {
+                using (StreamWriter sw = new StreamWriter(fs))
+                {
+                    String key = "";
+                    String value = "";
+                    foreach (KeyValuePair<String, List<BoundingBox>> p in all_data)
+                    {
+                        key = p.Key;
+
+                        if (p.Value.Count == 0)
+                        {
+                            continue;
+                        }
+
+                        foreach (BoundingBox bbox in p.Value)
+                        {
+                            value += bbox.Region.Left + "," + bbox.Region.Top + "," + bbox.Region.Right + "," + bbox.Region.Bottom + "," + bbox.Class_ID + " ";  // need a space here
+                        }
+
+                        sw.WriteLine(key + " " + value.TrimEnd(' '));
+                        key = "";
+                        value = "";
+                        count++;
+                    }
+                }
+            }
+
+            return count;
         }
     }
 }

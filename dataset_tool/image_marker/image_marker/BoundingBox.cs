@@ -66,8 +66,8 @@ namespace image_marker
         /// <param name="scale"></param>
         public void Draw(Graphics g, double scale)
         {
-            Color color = IsSelected ? Color.Red : Color.Blue;
-            float width = IsSelected ? 4 : 2;
+            Color color = IsSelected ? Color.Red : Color.Green;
+            float width = 2;
             using (Pen p = new Pen(color, width))
             {
                 g.DrawRectangle(p, new Rectangle((int)(Region.Left / scale), (int)(Region.Top / scale), (int)(Region.Width / scale), (int)(Region.Height / scale)));
@@ -77,7 +77,7 @@ namespace image_marker
 
         public override string ToString()
         {
-            return Region.Left + "," + Region.Top + "," + Region.Right + "," + Region.Bottom + "," + Class_ID;
+            return Region.Left + "," + Region.Top + "," + Region.Right + "," + Region.Bottom + "," + Class_ID + "-->" + Class_Name;
         }
     }
 }
