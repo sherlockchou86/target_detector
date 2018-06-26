@@ -153,6 +153,9 @@ namespace image_marker
                     textBox2.Text = _all_data.Keys.ToList()[current_index];
 
                     SwitchImage();
+
+
+                    numericUpDown1.Maximum = _all_data.Count;
                 }
             }
         }
@@ -189,8 +192,15 @@ namespace image_marker
         {
             if (_all_data.Count == 0)
                 return;
-
-            Image image = Image.FromFile(textBox1.Text + "\\" + _all_data.Keys.ToList()[current_index]);
+            Image image = null;
+            try
+            {
+                image = Image.FromFile(textBox1.Text + "\\" + _all_data.Keys.ToList()[current_index]);
+            }
+            catch
+            {
+                return;
+            }
 
             double scale_ui = (double)image_container.Width / image_container.Height;
             double scale_im = (double)image.Width / image.Height;
@@ -234,6 +244,11 @@ namespace image_marker
                 }
             }
             scale = (double)image.Width / image_panel.Width;
+            if (current_image != null)
+            {
+                current_image.Dispose();
+                current_image = null;
+            }
             current_image = image;
 
             listBox1.Items.Clear();
@@ -246,7 +261,7 @@ namespace image_marker
             image_panel.Invalidate();
         }
 
-
+        Point mouse_point = new Point(0, 0);
         /// <summary>
         /// image panel paint
         /// </summary>
@@ -257,6 +272,17 @@ namespace image_marker
             if (current_image != null)
             {
                 e.Graphics.DrawImage(current_image, new Rectangle(0, 0, image_panel.Width, image_panel.Height));
+            }
+
+
+            if (mouse_point.X != 0 && mouse_point.Y != 0)
+            {
+                using (Pen p = new Pen(Brushes.Blue, 2))
+                {
+                    p.DashStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+                    e.Graphics.DrawLine(p, new Point(0, mouse_point.Y), new Point(image_panel.Width, mouse_point.Y));
+                    e.Graphics.DrawLine(p, new Point(mouse_point.X, 0), new Point(mouse_point.X, image_panel.Height));
+                }
             }
 
             if (_all_data.ContainsKey(textBox2.Text))
@@ -307,10 +333,16 @@ namespace image_marker
                     current_editing.Region = new Rectangle(current_editing.Region.Left, 
                         current_editing.Region.Top,
                         (int)(e.Location.X * scale) - current_editing.Region.Left,
-                        (int)(e.Location.Y * scale) - current_editing.Region.Top);
+                        (int)(e.Location.Y * scale) - current_editing.Region.Top);   
 
                     image_panel.Invalidate();
                 }
+            }
+
+            if (_all_data != null && _all_data.Count > 0)
+            {
+                mouse_point = e.Location;
+                image_panel.Invalidate();
             }
         }
 
@@ -338,6 +370,17 @@ namespace image_marker
                     image_panel.Invalidate();
                 }
             }
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void image_panel_MouseLeave(object sender, EventArgs e)
+        {
+            mouse_point = new Point(0, 0);
+            image_panel.Invalidate();
         }
 
         /// <summary>
@@ -393,6 +436,28 @@ namespace image_marker
                 int count = Utils.SaveToAnnotation(_all_data, path);
 
                 MessageBox.Show("saved total " + count + " lines!");
+            }
+        }
+
+        /// <summary>
+        /// jump to index
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+            if (numericUpDown1.Value <= _all_data.Count)
+            {
+                current_index = (int)numericUpDown1.Value - 1;
+
+                label1.Text = (current_index + 1) + "/" + _all_data.Count;
+                textBox2.Text = _all_data.Keys.ToList()[current_index];
+
+                SwitchImage();
+            }
+            else
+            {
+                MessageBox.Show("out of index!");
             }
         }
     }

@@ -1,7 +1,1214 @@
-training_images\test.jpg 806,385,1008,758,0 7,497,273,633,0
-training_images\test1.jpeg 105,600,177,780,0 206,686,284,852,0 76,497,112,573,0
-training_images\test12.jpg 397,188,425,259,0 753,262,789,392,0 771,207,798,280,0 440,191,470,280,0
-training_images\test16.jpg 357,223,392,341,0 108,251,162,380,0 185,244,269,396,0 112,226,148,346,0
-training_images\test18.jpg 68,230,260,427,2 206,127,306,247,2 431,150,490,209,1 393,344,521,425,3
-training_images\test2.jpg 422,243,454,329,0 368,132,390,181,0 517,123,536,163,0 367,89,383,114,0 150,208,243,295,1 187,273,364,389,1 2,221,125,314,1 296,137,354,186,1 272,108,321,145,1 63,94,118,138,1
-training_images\test23.jpg 405,250,472,386,0 286,324,365,429,0
+training_images\car_with_fire\1.jpg 2,2,154,68,1 97,75,153,114,0 180,84,221,111,0
+training_images\car_with_fire\100.jpeg 149,85,278,312,1 367,187,549,259,0
+training_images\car_with_fire\1000.jpg 325,5,408,133,1 340,221,356,257,0 386,247,407,260,0
+training_images\car_with_fire\1003.jpg 195,4,513,79,1 374,98,477,195,0 221,126,266,305,0 313,288,406,309,0
+training_images\car_with_fire\1008.jpg 151,2,301,94,1
+training_images\car_with_fire\1009.jpg 9,13,291,247,1 247,259,394,328,0 285,386,383,414,0
+training_images\car_with_fire\101.jpg 207,218,306,250,0
+training_images\car_with_fire\1010.jpg 291,1,372,172,1
+training_images\car_with_fire\1011.jpg 196,3,299,148,1
+training_images\car_with_fire\1015.jpg 532,1,897,119,1 565,128,691,359,1
+training_images\car_with_fire\102.jpeg 49,225,235,383,1 229,97,330,183,0 447,90,570,159,0 152,399,229,441,0
+training_images\car_with_fire\1029.jpg 254,239,286,295,0
+training_images\car_with_fire\103.jpg 308,7,462,128,1 305,189,402,275,0
+training_images\car_with_fire\1037.jpg 92,56,170,124,0 206,54,283,131,0
+training_images\car_with_fire\1038.jpg 236,6,545,160,1
+training_images\car_with_fire\104.jpeg 5,5,456,207,1 2,210,153,465,1 225,264,274,374,0 222,381,258,447,0 159,352,192,394,0
+training_images\car_with_fire\1042.jpg 185,81,230,127,0
+training_images\car_with_fire\1043.jpg 351,332,461,424,0
+training_images\car_with_fire\1056.jpg 448,2,562,157,1 387,162,431,255,0
+training_images\car_with_fire\1058.jpeg 387,81,446,137,0
+training_images\car_with_fire\1063.jpg 159,0,297,89,1
+training_images\car_with_fire\107.jpg 422,322,645,443,0
+training_images\car_with_fire\1073.jpg 111,199,164,239,0
+training_images\car_with_fire\1076.jpg 207,2,525,156,1
+training_images\car_with_fire\1079.jpeg 4,3,520,169,1 248,170,516,284,1 402,341,440,396,0
+training_images\car_with_fire\108.jpg 169,6,1409,669,1
+training_images\car_with_fire\1081.jpg 103,77,341,207,1
+training_images\car_with_fire\1082.jpeg 196,3,402,285,0
+training_images\car_with_fire\1088.jpg 141,165,365,360,1
+training_images\car_with_fire\109.jpg 201,194,274,279,0
+training_images\car_with_fire\1092.jpg 171,30,347,153,1 320,162,430,225,0
+training_images\car_with_fire\1094.jpg 1475,745,1628,869,0
+training_images\car_with_fire\1099.jpg 197,88,299,157,1 82,38,253,68,0
+training_images\car_with_fire\11.jpg 1,1,231,261,0 235,159,408,288,0
+training_images\car_with_fire\110.jpg 6,3,271,165,1 205,287,231,314,0
+training_images\car_with_fire\1102.jpg 244,187,320,237,0
+training_images\car_with_fire\1115.jpeg 152,93,191,133,0
+training_images\car_with_fire\1122.jpg 359,11,568,341,0 115,81,254,197,0 198,205,352,343,0
+training_images\car_with_fire\1124.jpeg 385,81,480,255,0 485,3,641,131,1
+training_images\car_with_fire\1126.jpg 72,1,323,241,1 191,270,265,308,0
+training_images\car_with_fire\1129.gif 1,0,179,121,1
+training_images\car_with_fire\1130.jpeg 121,0,245,121,0 197,124,329,196,0 248,0,352,101,1
+training_images\car_with_fire\1131.jpg 162,108,319,190,0 289,199,405,277,0
+training_images\car_with_fire\1138.jpg 254,55,334,198,0
+training_images\car_with_fire\1150.jpeg 185,2,574,109,1
+training_images\car_with_fire\1151.jpeg 280,5,450,172,1
+training_images\car_with_fire\1166.jpg 403,234,561,337,0
+training_images\car_with_fire\1170.png 152,5,240,193,1
+training_images\car_with_fire\1171.jpg 303,10,494,204,1
+training_images\car_with_fire\1172.jpg 500,138,635,328,1
+training_images\car_with_fire\1183.jpg 97,162,264,275,0
+training_images\car_with_fire\1221.jpg 114,56,478,275,0 311,446,473,511,0
+training_images\car_with_fire\1222.jpg 2,2,210,248,1 230,303,272,330,0
+training_images\car_with_fire\1225.jpg 184,1,421,81,1
+training_images\car_with_fire\1228.jpeg 339,256,464,385,0
+training_images\car_with_fire\1236.jpg 1,6,203,165,1
+training_images\car_with_fire\1239.jpg 144,177,282,301,0 3,4,294,172,1
+training_images\car_with_fire\1241.jpg 5,0,124,222,1 79,228,108,275,0
+training_images\car_with_fire\1246.jpg 36,38,198,172,1
+training_images\car_with_fire\1247.jpeg 239,5,376,269,1 258,278,350,333,0
+training_images\car_with_fire\1251.jpg 218,214,250,254,0 236,258,267,313,0 499,264,549,315,0
+training_images\car_with_fire\1262.jpg 20,14,248,186,1
+training_images\car_with_fire\1265.jpg 478,5,547,87,1 313,31,403,93,1 122,71,143,109,0 94,1,132,66,1
+training_images\car_with_fire\127.jpg 138,58,211,125,0 214,103,265,156,0
+training_images\car_with_fire\1272.jpeg 125,119,246,265,0 105,4,213,114,1
+training_images\car_with_fire\1280.jpg 14,2,330,244,1 114,244,330,404,1 188,411,324,477,0 49,448,191,542,0 332,449,373,536,0
+training_images\car_with_fire\1287.jpg 134,192,501,297,0 305,350,425,419,0
+training_images\car_with_fire\13.png 287,227,426,318,0 53,156,182,260,0 137,64,278,151,0 82,281,179,320,0
+training_images\car_with_fire\1301.jpg 0,0,64,99,1 53,102,101,127,0
+training_images\car_with_fire\1305.jpg 598,328,781,447,0 551,35,859,320,1
+training_images\car_with_fire\1306.jpg 341,323,447,389,0 408,204,621,319,1
+training_images\car_with_fire\1311.jpg 293,323,375,416,1
+training_images\car_with_fire\1321.jpg 120,85,271,134,1
+training_images\car_with_fire\1324.jpg 218,244,422,364,0
+training_images\car_with_fire\1328.jpg 3,59,151,276,1
+training_images\car_with_fire\1347.jpg 75,2,778,432,0
+training_images\car_with_fire\1348.jpg 256,69,574,221,1 227,258,271,318,0 326,265,361,323,0
+training_images\car_with_fire\1351.jpg 137,172,289,303,0 3,3,324,162,1
+training_images\car_with_fire\1367.gif 209,179,368,275,0 126,2,463,166,1
+training_images\car_with_fire\1379.jpg 269,8,631,197,1 348,223,427,268,0 185,147,264,220,1
+training_images\car_with_fire\1382.jpg 445,273,534,325,1
+training_images\car_with_fire\1396.jpg 326,411,398,467,0
+training_images\car_with_fire\140.jpg 304,310,427,423,0 219,8,492,247,1
+training_images\car_with_fire\1401.jpeg 57,105,219,316,0 299,13,384,204,0 366,338,431,390,0 426,189,478,285,0
+training_images\car_with_fire\1403.jpg 183,91,384,201,1
+training_images\car_with_fire\1405.jpeg 78,26,269,238,1
+training_images\car_with_fire\1406.png 360,6,434,73,1 378,74,407,105,0 63,203,131,252,0 88,12,143,84,0 295,167,397,238,1 388,238,431,269,0
+training_images\car_with_fire\1407.JPG 45,3,490,422,1 278,492,388,538,0 455,423,523,554,0
+training_images\car_with_fire\1409.png 34,138,316,266,0
+training_images\car_with_fire\1410.jpg 3,46,191,170,1 193,143,236,186,0
+training_images\car_with_fire\1411.jpeg 155,5,239,283,1 188,285,216,309,0
+training_images\car_with_fire\1426.jpg 169,61,351,390,1 240,395,274,445,0
+training_images\car_with_fire\143.jpg 193,95,241,166,0
+training_images\car_with_fire\1431.jpg 194,257,518,431,0 613,233,751,392,0
+training_images\car_with_fire\1432.jpg 16,12,389,164,1 360,211,424,240,0
+training_images\car_with_fire\1442.jpeg 162,62,233,153,1
+training_images\car_with_fire\1448.jpg 188,4,472,148,1 319,169,420,237,0
+training_images\car_with_fire\1449.jpg 163,35,313,110,1 80,97,128,162,1
+training_images\car_with_fire\1454.jpg 1,14,101,160,1 105,127,127,158,0
+training_images\car_with_fire\1455.jpeg 3,1,146,465,1 161,141,312,284,0
+training_images\car_with_fire\147.png 363,224,538,296,0 194,72,547,203,1
+training_images\car_with_fire\1470.jpg 216,97,270,211,0 369,168,408,214,0
+training_images\car_with_fire\15.jpg 353,97,460,248,0 219,254,316,323,0
+training_images\car_with_fire\1505.jpg 98,1,245,121,1 130,154,158,183,0
+training_images\car_with_fire\1507.jpg 101,89,186,206,0
+training_images\car_with_fire\1511.jpg 94,2,162,142,1 110,144,141,182,0
+training_images\car_with_fire\1512.jpg 328,1,461,132,1
+training_images\car_with_fire\1516.jpg 67,1,149,58,1
+training_images\car_with_fire\1528.jpeg 361,1,516,157,1 409,181,489,254,0
+training_images\car_with_fire\153.jpg 158,0,337,91,1 216,102,325,175,0
+training_images\car_with_fire\1548.jpg 461,3,645,188,1 415,207,549,351,0
+training_images\car_with_fire\1557.png 322,163,398,279,1
+training_images\car_with_fire\1562.jpg 166,325,262,385,0
+training_images\car_with_fire\1573.jpg 545,116,615,253,0 254,2,467,35,0
+training_images\car_with_fire\1593.jpg 123,80,215,119,0
+training_images\car_with_fire\1597.jpeg 39,100,128,326,0 346,35,434,318,0
+training_images\car_with_fire\16.jpg 2,2,376,155,1 88,183,247,262,0
+training_images\car_with_fire\160.jpg 468,304,523,358,0
+training_images\car_with_fire\1601.jpg 136,107,425,325,0
+training_images\car_with_fire\1610.jpg 303,8,494,116,1 332,125,420,190,0
+training_images\car_with_fire\1612.jpg 56,7,347,96,1 231,99,321,140,0
+training_images\car_with_fire\1613.png 99,3,192,197,1
+training_images\car_with_fire\1617.jpeg 156,53,290,116,0
+training_images\car_with_fire\1623.jpg 70,52,172,190,0
+training_images\car_with_fire\1628.jpg 404,1,566,167,1 463,175,514,254,0 521,286,546,323,0
+training_images\car_with_fire\1630.jpg 484,17,588,122,0 610,272,691,318,0 604,23,727,204,1
+training_images\car_with_fire\1636.jpg 7,282,189,409,1
+training_images\car_with_fire\1638.jpg 208,126,251,168,0
+training_images\car_with_fire\1639.jpg 132,50,251,116,0
+training_images\car_with_fire\1646.jpg 271,4,342,134,0 204,43,264,100,0
+training_images\car_with_fire\1649.jpg 297,146,399,284,0
+training_images\car_with_fire\1664.jpg 205,171,305,293,0 127,5,299,167,1 307,97,384,165,0 316,282,389,312,0
+training_images\car_with_fire\1669.jpg 2,2,151,139,1 82,139,130,194,0
+training_images\car_with_fire\1685.JPG 324,7,442,132,1 362,139,398,196,0 409,224,427,253,0
+training_images\car_with_fire\17.jpg 3,2,197,143,1 201,72,293,155,0
+training_images\car_with_fire\172.jpg 238,34,591,256,1
+training_images\car_with_fire\18.jpg 56,1,379,130,1 127,148,264,223,0
+training_images\car_with_fire\183.jpeg 3,7,137,319,1 147,1,362,142,0 217,152,333,210,0 141,274,201,306,0
+training_images\car_with_fire\191.jpg 242,114,421,364,0 156,110,226,207,0 60,301,233,354,0
+training_images\car_with_fire\2.jpeg 2,2,233,95,0 2,96,82,193,0
+training_images\car_with_fire\20.jpg 103,6,275,130,1 178,189,297,223,0 245,151,287,179,0
+training_images\car_with_fire\200.jpg 197,135,252,202,0 267,36,499,191,1 63,53,191,164,1
+training_images\car_with_fire\201.jpg 157,105,271,177,0
+training_images\car_with_fire\205.jpg 439,18,942,573,1 830,600,1007,827,0
+training_images\car_with_fire\212.jpg 225,10,301,124,1 209,129,292,167,0
+training_images\car_with_fire\213.jpg 84,4,352,111,1 130,149,155,194,0 234,117,270,149,0
+training_images\car_with_fire\214.jpg 134,157,181,195,0 105,193,127,226,0
+training_images\car_with_fire\219.jpg 338,312,456,380,0
+training_images\car_with_fire\220.jpg 231,237,295,278,0 167,254,206,276,0 259,4,447,122,1
+training_images\car_with_fire\225.jpg 162,72,369,274,1
+training_images\car_with_fire\228.jpg 138,191,197,252,0
+training_images\car_with_fire\23.jpg 73,7,302,174,1 219,192,270,217,0 195,203,217,235,0
+training_images\car_with_fire\235.jpg 133,25,267,187,1 152,190,184,227,0
+training_images\car_with_fire\25.jpg 239,0,554,108,1 290,204,339,243,0
+training_images\car_with_fire\252.jpg 381,80,460,139,0 384,202,445,232,0 472,207,534,229,0
+training_images\car_with_fire\257.jpg 172,198,293,305,0 2,1,342,175,1
+training_images\car_with_fire\259.jpg 8,62,166,107,0
+training_images\car_with_fire\262.jpg 87,2,244,174,1 192,179,293,249,0
+training_images\car_with_fire\272.jpg 266,52,369,149,0
+training_images\car_with_fire\275.jpg 49,1,292,60,1 107,66,198,175,0 174,177,268,221,0
+training_images\car_with_fire\291.jpg 166,232,205,291,0 1,186,88,286,0 1,4,167,183,1
+training_images\car_with_fire\295.jpg 378,168,703,339,1
+training_images\car_with_fire\305.jpg 204,163,315,230,0
+training_images\car_with_fire\310.jpg 283,95,307,121,0 268,1,379,94,1
+training_images\car_with_fire\32.jpeg 86,120,252,223,0 1,7,82,183,1
+training_images\car_with_fire\322.jpg 471,12,3539,574,0 344,580,846,1312,0
+training_images\car_with_fire\34.png 224,114,440,202,0
+training_images\car_with_fire\345.jpg 1132,67,1604,988,1
+training_images\car_with_fire\349.jpg 0,0,218,161,1 106,288,142,321,0 80,204,138,233,0 151,199,223,237,0
+training_images\car_with_fire\352.jpg 168,25,402,166,1 144,182,217,235,1 245,210,271,231,0
+training_images\car_with_fire\354.jpg 181,272,258,384,0 55,5,328,260,1 296,355,338,423,0
+training_images\car_with_fire\365.jpg 157,70,271,150,0
+training_images\car_with_fire\371.jpg 98,93,156,127,0
+training_images\car_with_fire\38.jpg 236,7,434,151,0 99,142,189,211,0
+training_images\car_with_fire\39.jpg 324,113,447,219,0 318,1,546,112,1
+training_images\car_with_fire\394.jpg 118,153,204,210,0 126,228,153,249,0 36,49,229,150,1
+training_images\car_with_fire\40.jpg 184,6,586,185,1
+training_images\car_with_fire\404.jpeg 373,238,411,260,0 226,151,279,184,0 322,22,488,159,1
+training_images\car_with_fire\409.jpg 23,5,282,235,1 22,248,141,364,0
+training_images\car_with_fire\42.jpg 284,287,310,333,0 19,10,300,201,1 179,206,280,308,1
+training_images\car_with_fire\422.jpg 417,0,777,195,1 244,204,598,366,1
+training_images\car_with_fire\432.jpg 110,181,220,334,0
+training_images\car_with_fire\435.jpg 4,82,250,252,1 304,157,388,198,0
+training_images\car_with_fire\437.jpg 117,3,211,69,1
+training_images\car_with_fire\44.jpg 234,79,305,184,1 156,123,216,186,0
+training_images\car_with_fire\463.jpg 161,155,239,213,0
+training_images\car_with_fire\466.jpeg 439,143,561,269,1
+training_images\car_with_fire\475.jpg 132,2,208,161,1 238,112,286,178,0 215,9,345,69,0 214,184,263,254,0
+training_images\car_with_fire\483.jpg 6,5,403,221,1 260,239,400,294,0
+training_images\car_with_fire\489.JPEG 57,12,460,154,1 419,183,475,262,1
+training_images\car_with_fire\497.jpg 6,3,177,83,1 177,147,246,183,1 143,166,168,209,0
+training_images\car_with_fire\506.jpg 162,291,200,341,0 209,193,291,316,1
+training_images\car_with_fire\51.png 210,21,301,140,0 93,16,163,108,0 29,117,75,192,0
+training_images\car_with_fire\516.jpg 145,119,254,242,0 89,3,227,111,1
+training_images\car_with_fire\538.jpg 185,11,428,189,1
+training_images\car_with_fire\540.jpg 189,83,387,223,1 291,225,339,269,0
+training_images\car_with_fire\56.jpg 338,124,431,201,0
+training_images\car_with_fire\562.jpg 382,22,491,196,1
+training_images\car_with_fire\578.jpg 215,176,367,238,0 241,4,595,160,1 347,279,396,310,0 396,168,474,277,1
+training_images\car_with_fire\582.png 2,2,312,115,1 136,147,178,219,0 130,227,160,283,0
+training_images\car_with_fire\590.jpg 124,288,228,354,0 258,187,380,382,1
+training_images\car_with_fire\593.jpg 73,5,140,131,1 187,166,238,207,0
+training_images\car_with_fire\596.jpg 1,0,172,194,1 158,198,217,233,0
+training_images\car_with_fire\599.png 124,42,273,259,0
+training_images\car_with_fire\6.jpg 34,180,260,308,0 81,32,303,163,1
+training_images\car_with_fire\601.jpg 230,126,267,163,1
+training_images\car_with_fire\607.jpg 100,28,250,133,1
+training_images\car_with_fire\612.jpg 138,206,259,329,0 462,5,714,164,1
+training_images\car_with_fire\617.jpeg 119,133,170,180,0 20,5,257,125,1 236,183,256,226,0
+training_images\car_with_fire\627.jpg 130,1,187,85,0
+training_images\car_with_fire\640.jpg 118,209,213,328,1 229,292,389,381,1
+training_images\car_with_fire\646.jpg 112,43,191,94,0
+training_images\car_with_fire\647.jpg 278,1,412,80,1 368,101,423,140,0 294,83,361,116,0
+training_images\car_with_fire\654.jpg 9,8,295,160,1
+training_images\car_with_fire\660.jpg 73,157,201,213,0 2,1,280,121,1
+training_images\car_with_fire\668.jpg 365,234,413,250,0 172,2,339,164,1
+training_images\car_with_fire\671.jpg 189,127,274,192,0 304,2,397,214,1
+training_images\car_with_fire\674.jpeg 385,126,518,197,0 348,59,451,104,0 413,220,482,246,0
+training_images\car_with_fire\68.jpg 96,0,300,156,1 303,97,347,177,0 220,184,267,227,0
+training_images\car_with_fire\680.jpeg 1,2,279,280,1
+training_images\car_with_fire\683.jpg 143,195,196,254,0 205,104,386,247,1 285,0,453,97,1 390,173,493,248,1
+training_images\car_with_fire\687.jpeg 19,105,201,255,1
+training_images\car_with_fire\699.jpg 366,449,453,513,0
+training_images\car_with_fire\719.png 2,4,204,168,1 156,231,243,257,0
+training_images\car_with_fire\720.jpg 404,93,491,205,1 118,83,193,225,1
+training_images\car_with_fire\724.png 394,141,507,264,0 233,178,381,284,0
+training_images\car_with_fire\725.jpg 147,53,211,129,0 203,147,332,305,0 71,154,178,202,0 103,288,164,311,0
+training_images\car_with_fire\73.jpg 75,149,106,217,0 123,134,198,170,0 172,3,287,114,1
+training_images\car_with_fire\741.jpg 178,157,254,224,0 261,129,298,154,0
+training_images\car_with_fire\746.jpg 339,1,419,197,0 420,1,601,267,1
+training_images\car_with_fire\747.jpg 78,30,383,168,1
+training_images\car_with_fire\749.jpeg 163,245,189,302,0 56,3,293,189,1 297,100,328,199,0 281,324,344,344,0
+training_images\car_with_fire\759.jpg 3,5,266,219,1 137,242,201,276,0
+training_images\car_with_fire\767.jpg 356,4,450,131,1 345,141,403,181,0 418,137,479,225,0 278,145,319,183,0 221,172,251,194,0 244,199,264,219,0
+training_images\car_with_fire\768.jpg 194,73,290,172,0 292,138,368,210,0 129,126,191,175,0 312,3,479,91,1 407,121,481,238,1
+training_images\car_with_fire\770.jpg 141,53,387,170,0 87,149,139,202,0 26,4,114,142,1
+training_images\car_with_fire\782.JPG 5,4,264,184,1
+training_images\car_with_fire\788.jpeg 110,224,161,264,0
+training_images\car_with_fire\79.png 369,5,546,128,1 292,89,349,119,1 336,125,356,145,0
+training_images\car_with_fire\802.jpg 362,60,398,100,0 344,108,391,144,0 220,11,334,64,1
+training_images\car_with_fire\804.jpg 316,140,481,274,0 647,182,771,382,1 558,160,642,238,0 202,208,289,257,0 490,7,766,111,1
+training_images\car_with_fire\807.jpg 176,202,188,215,0 143,75,196,198,1
+training_images\car_with_fire\810.jpg 10,5,162,228,0 0,228,50,330,0 169,226,196,275,0 87,299,158,327,0
+training_images\car_with_fire\813.jpg 4,129,227,301,1 194,302,295,349,0 370,334,392,364,0
+training_images\car_with_fire\815.jpg 1,96,118,258,1
+training_images\car_with_fire\822.jpg 367,206,541,306,0 404,317,502,355,0
+training_images\car_with_fire\826.jpg 103,3,277,173,1 227,187,293,256,0
+training_images\car_with_fire\828.jpg 148,124,197,194,0 225,130,270,235,0 128,0,318,117,1 275,161,331,188,0
+training_images\car_with_fire\829.jpg 293,78,363,176,0 15,1,259,137,1
+training_images\car_with_fire\830.jpg 115,154,191,226,0
+training_images\car_with_fire\858.jpeg 35,83,284,189,0 223,2,358,58,1
+training_images\car_with_fire\859.jpg 1,4,300,136,1 86,145,196,228,1 162,231,272,271,0 200,170,286,220,1
+training_images\car_with_fire\867.jpg 199,249,303,353,0
+training_images\car_with_fire\872.png 205,18,417,248,0 443,25,548,227,0 70,454,225,493,0 8,228,137,291,0
+training_images\car_with_fire\883.jpg 283,139,487,280,1 296,307,367,351,0 309,367,369,389,0 254,299,287,339,0 492,85,638,198,1
+training_images\car_with_fire\886.jpg 75,144,144,187,0
+training_images\car_with_fire\901.jpeg 194,263,258,305,0 225,7,639,260,1
+training_images\car_with_fire\907.jpg 118,252,181,283,0 310,12,493,234,1
+training_images\car_with_fire\932.jpg 183,125,330,255,0
+training_images\car_with_fire\937.JPG 214,4,343,78,1 241,93,274,149,0
+training_images\car_with_fire\944.jpeg 316,1,407,206,1 353,227,422,263,0
+training_images\car_with_fire\953.jpg 3,177,314,359,1
+training_images\car_with_fire\958.jpg 19,142,97,185,0 139,123,181,155,0 1,0,153,119,1
+training_images\car_with_fire\963.jpeg 237,297,282,326,0 189,220,221,276,0 229,96,366,281,1
+training_images\car_with_fire\99.jpg 179,135,342,214,0 456,77,539,233,0 309,81,414,131,0 368,252,483,291,0
+training_images\smoke\1.jpg 11,13,596,1030,1
+training_images\smoke\10.jpg 346,140,728,354,1
+training_images\smoke\100.jpg 9,10,938,442,1 29,500,558,583,0
+training_images\smoke\1000.jpg 65,77,546,407,1
+training_images\smoke\1008.jpg 76,7,225,250,0 257,283,333,365,0 230,107,436,199,0
+training_images\smoke\1009.jpg 344,65,572,349,1
+training_images\smoke\1014.jpg 8,15,241,223,1
+training_images\smoke\1024.jpg 7,90,299,230,1 303,207,374,250,0
+training_images\smoke\1026.jpg 276,141,447,375,1
+training_images\smoke\1027.jpg 434,62,577,304,1
+training_images\smoke\1028.jpg 4,285,193,428,0 5,132,328,278,1
+training_images\smoke\1032.png 187,3,559,285,1 255,449,449,673,0
+training_images\smoke\1034.jpg 304,135,353,200,1
+training_images\smoke\1035.jpg 225,14,397,381,1 119,205,221,432,1
+training_images\smoke\104.jpg 0,2,475,413,1 1,425,28,483,0
+training_images\smoke\1042.jpg 111,125,255,324,1
+training_images\smoke\1044.jpg 75,69,548,196,1
+training_images\smoke\1045.png 7,22,249,178,1
+training_images\smoke\1046.jpeg 4,41,91,184,1 314,1,428,163,1
+training_images\smoke\105.jpg 238,7,729,329,1
+training_images\smoke\1050.jpeg 181,25,396,332,1
+training_images\smoke\1053.jpg 158,2,498,158,1
+training_images\smoke\1056.jpg 74,112,541,387,0
+training_images\smoke\1057.jpg 4,4,393,410,1
+training_images\smoke\1061.jpg 340,0,703,294,1 504,301,573,378,0 107,185,322,352,1
+training_images\smoke\1064.jpg 197,114,552,722,1
+training_images\smoke\107.jpg 85,16,370,164,1
+training_images\smoke\1071.jpg 58,1,895,301,1 164,304,225,344,0
+training_images\smoke\1072.jpg 151,98,284,132,0 242,183,395,277,1
+training_images\smoke\1074.jpg 4,58,245,348,1
+training_images\smoke\1076.jpg 179,79,423,404,1
+training_images\smoke\1079.jpg 210,21,493,237,1 171,111,206,155,0
+training_images\smoke\1080.jpg 120,1,420,156,1
+training_images\smoke\1085.jpg 147,4,236,213,1
+training_images\smoke\11.jpg 219,240,275,262,0 3,5,445,158,1 371,224,416,237,0
+training_images\smoke\1100.jpg 116,37,237,185,1
+training_images\smoke\1104.jpg 1,60,434,388,1 334,442,361,463,0
+training_images\smoke\1107.jpg 394,130,498,173,0 2,64,91,180,0
+training_images\smoke\1114.jpg 5,7,298,196,1
+training_images\smoke\1115.jpg 135,236,322,280,0
+training_images\smoke\1118.jpg 55,321,170,350,0 96,0,419,198,1 2,210,249,312,1
+training_images\smoke\1119.jpg 277,40,375,148,1
+training_images\smoke\1124.jpg 179,193,220,339,0 166,121,222,188,0 92,1,277,103,1
+training_images\smoke\1159.jpg 188,88,269,227,0
+training_images\smoke\1191.jpg 191,140,209,161,0 261,128,279,159,0 112,0,339,122,1
+training_images\smoke\1196.jpg 109,3,363,248,1 148,367,241,419,0 286,361,327,410,0 129,253,160,289,0
+training_images\smoke\1220.jpg 56,5,389,138,1
+training_images\smoke\1229.jpg 147,407,250,547,0
+training_images\smoke\123.jpg 127,40,312,462,1
+training_images\smoke\1238.jpg 16,0,222,118,0 68,205,136,233,0 111,241,136,266,0 279,94,311,142,0
+training_images\smoke\1243.jpg 112,5,522,291,1 103,301,200,799,1
+training_images\smoke\1269.jpg 167,3,499,202,1 188,291,247,323,0
+training_images\smoke\1276.jpg 212,139,276,171,0
+training_images\smoke\1281.jpg 3,0,375,144,1
+training_images\smoke\1293.jpg 176,38,345,184,1
+training_images\smoke\1295.jpg 105,8,445,390,1 211,401,292,474,0
+training_images\smoke\1315.png 78,73,356,452,1
+training_images\smoke\1318.JPG 136,11,397,156,1
+training_images\smoke\132.jpg 308,186,794,818,1 321,829,367,884,0
+training_images\smoke\1331.jpg 339,0,585,237,1 356,282,455,347,0 5,7,322,169,1 421,240,471,277,0
+training_images\smoke\1339.jpg 33,5,350,316,1 329,321,377,358,0
+training_images\smoke\1353.jpg 381,43,595,287,1 243,163,372,301,1
+training_images\smoke\1383.jpg 93,106,186,280,1 120,282,172,331,0
+training_images\smoke\1409.png 93,1,345,108,1 257,135,274,174,0 212,129,249,172,0
+training_images\smoke\1414.jpg 2,0,141,237,1 155,145,430,229,0 198,234,256,349,0
+training_images\smoke\1420.jpg 191,3,306,391,1 154,411,300,519,0
+training_images\smoke\1428.jpg 228,3,385,166,1
+training_images\smoke\1441.png 143,139,253,350,1 73,8,196,128,1
+training_images\smoke\1453.jpg 368,332,426,375,0 147,270,202,322,0 88,253,132,326,0
+training_images\smoke\146.jpg 638,315,712,389,0 340,127,409,193,0 387,193,474,239,0
+training_images\smoke\1460.jpg 110,14,517,254,1
+training_images\smoke\1468.jpg 108,29,520,347,1
+training_images\smoke\1476.jpg 265,505,368,658,0 87,1,496,495,1
+training_images\smoke\1477.jpg 193,0,369,282,1 241,313,389,402,0
+training_images\smoke\1487.jpg 380,292,395,312,0 348,298,362,336,0 298,331,317,345,0 59,2,493,175,1
+training_images\smoke\1493.png 21,240,59,280,0 331,228,347,247,0 151,4,424,211,1
+training_images\smoke\1531.jpg 56,5,262,295,1
+training_images\smoke\1536.jpg 183,6,426,190,1
+training_images\smoke\1591.jpg 151,69,203,165,0 49,14,141,105,1
+training_images\smoke\1622.jpg 62,31,157,222,1
+training_images\smoke\165.jpg 102,292,145,344,0 178,312,208,343,0 212,362,244,402,0
+training_images\smoke\1655.jpg 105,98,127,126,0
+training_images\smoke\1687.jpg 25,29,158,163,0
+training_images\smoke\1691.jpg 135,103,188,125,0 88,3,307,98,1
+training_images\smoke\1704.jpg 49,102,191,130,0
+training_images\smoke\1705.jpg 64,2,236,89,1
+training_images\smoke\187.jpg 54,168,227,290,0 1,0,259,161,1
+training_images\smoke\188.jpg 45,6,459,228,1
+training_images\smoke\189.jpg 16,10,229,178,1
+training_images\smoke\2.jpg 289,263,322,299,0
+training_images\smoke\218.jpg 260,130,375,348,0
+training_images\smoke\251.jpg 253,38,344,175,0 243,262,309,284,0
+training_images\smoke\264.jpg 5,103,891,422,1 5,433,102,559,0 666,430,725,484,0 752,465,818,525,0
+training_images\smoke\327.jpg 3,1,119,264,1 246,1,498,178,1 285,189,420,298,0 144,277,178,291,0
+training_images\smoke\329.jpg 246,2,563,508,1
+training_images\smoke\336.jpg 286,300,408,338,0 139,356,224,377,0 189,4,546,287,1
+training_images\smoke\384.jpg 60,157,89,186,0 136,8,352,168,1
+training_images\smoke\397.jpg 108,150,182,202,0 199,149,258,187,0 0,0,218,146,1
+training_images\smoke\399.jpg 285,41,439,230,1
+training_images\smoke\400.jpg 648,416,679,448,0 466,481,498,510,0 515,458,565,495,0 404,13,875,297,1
+training_images\smoke\404.png 5,4,249,183,1
+training_images\smoke\416.jpg 63,3,544,194,1
+training_images\smoke\420.jpg 397,247,449,297,0
+training_images\smoke\451.JPEG 142,194,207,225,0
+training_images\smoke\464.jpg 439,230,475,273,0
+training_images\smoke\471.jpg 168,260,197,286,0 254,269,299,305,0 306,268,324,294,0
+training_images\smoke\484.jpeg 50,49,130,94,0 277,179,335,221,0 418,197,434,225,0 125,262,195,282,0
+training_images\smoke\493.jpg 200,243,244,296,0 158,2,437,240,1
+training_images\smoke\495.jpg 254,3,461,189,1 216,278,259,310,0 284,243,388,287,0 362,306,400,332,0 294,295,336,331,0
+training_images\smoke\531.jpg 188,199,403,404,1
+training_images\smoke\534.jpg 103,13,317,374,1
+training_images\smoke\539.jpg 261,45,375,245,1
+training_images\smoke\551.jpg 591,526,666,641,0 706,672,749,734,0 541,676,624,732,0
+training_images\smoke\557.jpg 415,4,703,251,1 498,265,529,311,0 410,297,490,325,0
+training_images\smoke\572.jpg 234,101,291,164,0 248,263,299,288,0
+training_images\smoke\648.jpg 26,15,362,177,1
+training_images\smoke\653.jpg 156,118,231,224,0
+training_images\smoke\667.jpg 79,210,126,253,0 154,202,210,249,0 252,225,272,261,0
+training_images\smoke\714.jpg 185,421,285,481,0 341,423,384,469,0 158,4,397,275,1
+training_images\smoke\733.jpg 123,275,171,306,0
+training_images\smoke\859.jpg 391,151,485,268,0 223,250,315,308,0 63,268,97,310,0
+training_images\smoke\885.JPG 257,150,286,195,0 190,0,297,145,1
+training_images\tcar\1.jpg 149,98,1102,690,2
+training_images\tcar\10.jpg 19,146,798,659,2
+training_images\tcar\1000.jpg 31,84,590,435,2
+training_images\tcar\1001.jpg 4,8,303,291,2
+training_images\tcar\1002.jpg 3,76,499,339,2
+training_images\tcar\1003.jpeg 157,191,442,387,2
+training_images\tcar\1004.jpg 23,128,574,414,2
+training_images\tcar\1005.jpg 46,101,315,243,2
+training_images\tcar\1006.jpg 37,13,681,472,2
+training_images\tcar\1007.jpg 31,75,361,375,2
+training_images\tcar\1008.jpg 86,289,471,666,2 0,262,201,407,2
+training_images\tcar\1009.jpg 70,165,702,618,2
+training_images\tcar\101.jpg 382,384,1122,796,2 3,354,451,658,2
+training_images\tcar\1010.jpg 14,31,309,300,2
+training_images\tcar\1011.jpg 19,42,493,498,2
+training_images\tcar\1012.jpg 61,57,550,373,2
+training_images\tcar\1013.jpg 139,69,494,350,2
+training_images\tcar\1014.jpg 4,4,387,527,2
+training_images\tcar\1015.jpg 76,125,674,515,2
+training_images\tcar\1016.jpg 11,60,800,609,2
+training_images\tcar\1017.jpg 11,69,522,417,2
+training_images\tcar\1018.jpg 5,203,478,466,2
+training_images\tcar\1019.jpg 3,71,470,381,2
+training_images\tcar\102.jpg 166,177,598,528,2 2,183,303,469,2
+training_images\tcar\1020.jpeg 16,54,587,448,2
+training_images\tcar\1021.jpg 5,172,541,598,2
+training_images\tcar\1022.jpg 27,52,694,480,2
+training_images\tcar\1023.jpg 11,41,357,334,2
+training_images\tcar\1025.jpg 112,58,733,423,2
+training_images\tcar\1026.jpg 3,22,511,346,2
+training_images\tcar\1027.jpeg 17,147,639,415,2
+training_images\tcar\1028.jpg 37,41,762,522,2
+training_images\tcar\1029.jpg 81,264,836,732,2
+training_images\tcar\103.jpg 15,122,952,857,2
+training_images\tcar\1030.jpg 199,394,658,1173,2
+training_images\tcar\1031.jpg 119,155,1086,807,2
+training_images\tcar\1032.jpg 79,84,786,513,2
+training_images\tcar\1035.jpg 7,149,490,411,2
+training_images\tcar\1036.jpg 7,18,395,245,2
+training_images\tcar\1037.jpg 12,21,397,232,2
+training_images\tcar\1038.jpg 20,38,674,415,2
+training_images\tcar\1039.jpg 4,158,620,516,2
+training_images\tcar\104.jpg 168,245,1754,1359,2
+training_images\tcar\1040.jpg 7,39,428,280,2
+training_images\tcar\1041.jpg 2,45,306,274,2
+training_images\tcar\1042.jpg 6,194,615,495,2
+training_images\tcar\1043.jpg 20,37,259,184,2
+training_images\tcar\1044.jpg 261,377,494,590,2 534,326,1101,747,2
+training_images\tcar\1045.jpg 3,68,344,246,2
+training_images\tcar\1046.jpg 14,60,309,245,2
+training_images\tcar\1047.jpg 2,87,305,226,2
+training_images\tcar\1048.jpg 72,50,598,424,2
+training_images\tcar\1049.jpg 14,178,777,618,2
+training_images\tcar\105.jpg 25,15,1120,760,2
+training_images\tcar\1050.jpg 62,656,1420,1280,2
+training_images\tcar\1054.jpg 21,101,590,469,2
+training_images\tcar\1055.jpg 42,165,1235,740,2
+training_images\tcar\1056.jpg 103,117,864,697,2
+training_images\tcar\1057.jpg 195,94,407,416,2
+training_images\tcar\1058.jpg 231,316,910,821,2
+training_images\tcar\1059.jpg 9,27,382,272,2
+training_images\tcar\106.jpg 35,31,487,360,2
+training_images\tcar\1060.jpg 182,197,845,595,2
+training_images\tcar\1061.jpg 244,50,879,735,2
+training_images\tcar\1062.jpg 12,70,291,273,2
+training_images\tcar\1064.jpg 30,38,460,343,2
+training_images\tcar\1067.jpg 50,80,448,315,2
+training_images\tcar\1068.jpg 55,15,528,348,2
+training_images\tcar\1069.jpg 6,124,447,393,2
+training_images\tcar\107.jpg 14,74,598,417,2
+training_images\tcar\1070.jpg 11,23,418,264,2
+training_images\tcar\1071.jpg 56,56,446,316,2
+training_images\tcar\1072.jpg 148,88,679,737,2
+training_images\tcar\1073.JPG 16,29,112,102,2
+training_images\tcar\1074.jpg 15,6,275,201,2
+training_images\tcar\1075.jpg 340,592,1760,1439,2
+training_images\tcar\1076.jpg 5,140,795,721,2
+training_images\tcar\1077.jpg 92,123,649,653,2
+training_images\tcar\1078.jpg 165,264,1592,1388,2
+training_images\tcar\1079.jpg 28,47,958,952,2
+training_images\tcar\108.jpg 96,217,393,541,2
+training_images\tcar\1080.jpg 199,35,602,780,2
+training_images\tcar\1081.jpg 97,109,846,604,2
+training_images\tcar\1083.jpg 4,62,214,159,2
+training_images\tcar\1086.jpg 92,81,528,369,2
+training_images\tcar\1088.jpg 90,235,453,445,2
+training_images\tcar\1089.jpg 21,55,441,333,2
+training_images\tcar\109.jpg 240,121,1142,690,2
+training_images\tcar\1091.jpg 20,291,490,621,2
+training_images\tcar\1092.jpg 50,135,624,551,2
+training_images\tcar\1093.jpg 20,176,779,631,2
+training_images\tcar\1094.jpg 14,55,403,325,2
+training_images\tcar\1095.jpg 11,410,860,920,2
+training_images\tcar\1097.jpg 26,88,858,600,2
+training_images\tcar\11.jpg 79,19,630,449,2
+training_images\tcar\110.jpg 17,64,966,641,2
+training_images\tcar\1100.jpg 3,75,295,279,2
+training_images\tcar\1101.jpg 21,21,401,264,2
+training_images\tcar\1102.jpg 382,233,778,510,2 239,294,401,471,2 133,333,294,458,2
+training_images\tcar\1103.jpg 36,60,535,413,2
+training_images\tcar\1104.jpg 58,107,591,337,2
+training_images\tcar\1106.jpg 18,67,641,438,2
+training_images\tcar\1112.jpg 38,39,279,254,2
+training_images\tcar\1113.jpg 15,6,276,197,2
+training_images\tcar\1115.jpg 38,50,248,180,2
+training_images\tcar\1116.jpg 28,6,306,234,2
+training_images\tcar\1117.jpg 15,26,166,163,2
+training_images\tcar\1118.jpg 35,216,764,746,2 746,248,1122,577,2
+training_images\tcar\1119.jpg 133,264,694,620,2
+training_images\tcar\112.jpg 16,37,689,582,2
+training_images\tcar\1120.jpg 106,180,975,703,2
+training_images\tcar\1121.jpg 618,439,955,837,2
+training_images\tcar\1122.jpg 259,122,810,634,2
+training_images\tcar\1123.jpg 67,227,680,641,2
+training_images\tcar\1124.jpg 11,492,763,1149,2
+training_images\tcar\1125.jpg 0,129,595,796,2 360,133,965,692,2 616,103,1134,604,2 813,115,1200,539,2
+training_images\tcar\1127.jpg 3,47,523,821,2 449,105,750,678,2 704,113,887,618,2 855,125,993,567,2 971,127,1106,551,2 1072,139,1192,513,2
+training_images\tcar\1128.jpg 175,286,411,646,2 491,9,1100,792,2
+training_images\tcar\1129.jpg 91,25,1100,794,2
+training_images\tcar\113.jpg 28,117,927,555,2
+training_images\tcar\1130.jpg 174,137,686,590,2
+training_images\tcar\1131.jpg 135,196,778,624,2
+training_images\tcar\1133.jpg 112,239,801,658,2
+training_images\tcar\1134.jpg 38,550,1569,1436,2
+training_images\tcar\1135.jpg 108,79,533,714,2 573,84,962,714,2
+training_images\tcar\1137.jpg 14,177,791,614,2
+training_images\tcar\1138.jpg 89,375,1598,1203,2
+training_images\tcar\1139.jpg 119,701,576,1093,2
+training_images\tcar\114.jpg 3,55,448,379,2
+training_images\tcar\1140.jpg 197,131,780,740,2
+training_images\tcar\1141.jpg 45,278,459,776,2 539,306,831,732,2
+training_images\tcar\1142.jpg 50,93,864,765,2
+training_images\tcar\1143.jpg 113,145,882,588,2
+training_images\tcar\1144.jpg 284,33,1192,786,2
+training_images\tcar\1145.jpg 3,69,827,794,2
+training_images\tcar\1146.jpg 3,117,579,794,2 606,155,1168,778,2
+training_images\tcar\1147.jpg 217,151,674,601,2
+training_images\tcar\1148.jpg 180,215,852,596,2
+training_images\tcar\1149.jpg 443,44,1003,516,2
+training_images\tcar\115.jpg 5,71,307,248,2
+training_images\tcar\1150.jpg 179,51,1036,790,2
+training_images\tcar\1151.jpg 273,297,1008,760,2
+training_images\tcar\1152.jpg 66,407,1891,1318,2
+training_images\tcar\1153.jpg 181,286,1725,1270,2
+training_images\tcar\1154.jpg 59,51,869,772,2
+training_images\tcar\1155.jpg 258,57,883,735,2
+training_images\tcar\1156.jpg 45,123,721,664,2
+training_images\tcar\1157.jpg 107,55,1090,664,2
+training_images\tcar\1159.jpg 53,78,440,425,2
+training_images\tcar\1160.jpg 73,70,730,721,2
+training_images\tcar\1161.jpg 194,95,1805,1397,2
+training_images\tcar\1162.jpg 9,45,196,168,2
+training_images\tcar\1165.jpg 67,87,296,210,2
+training_images\tcar\1168.jpg 579,267,1321,1426,2
+training_images\tcar\1170.jpg 200,420,1757,1117,2
+training_images\tcar\1172.jpg 68,209,1427,750,2
+training_images\tcar\1173.jpg 7,56,981,644,2
+training_images\tcar\1175.jpg 15,328,750,725,2
+training_images\tcar\1176.jpg 222,509,1779,1152,2
+training_images\tcar\118.jpg 27,80,255,228,2
+training_images\tcar\1180.jpg 292,210,1340,1127,2
+training_images\tcar\1182.jpg 7,302,749,633,2
+training_images\tcar\1184.jpg 70,407,1194,1381,2 1203,544,1467,872,2
+training_images\tcar\1185.jpg 319,271,1010,602,2
+training_images\tcar\1187.jpg 181,203,959,631,2
+training_images\tcar\1188.jpg 47,254,1767,964,2
+training_images\tcar\1192.jpg 300,208,1160,726,2
+training_images\tcar\1193.jpg 150,76,822,520,2
+training_images\tcar\1194.jpg 31,507,778,1131,2
+training_images\tcar\1195.jpg 83,113,949,704,2
+training_images\tcar\1196.jpg 1139,450,2324,1940,2
+training_images\tcar\1197.jpg 71,225,900,717,2
+training_images\tcar\1198.jpg 336,213,1033,700,2 6,245,410,591,2
+training_images\tcar\1199.jpg 387,99,861,789,2
+training_images\tcar\12.jpg 22,129,1158,729,2
+training_images\tcar\120.jpg 3,66,596,468,2
+training_images\tcar\1203.jpg 103,92,932,605,2
+training_images\tcar\1204.jpg 138,378,941,880,2
+training_images\tcar\1205.jpg 60,114,729,684,2
+training_images\tcar\1206.jpg 60,127,982,502,2
+training_images\tcar\1209.jpg 390,439,1680,1229,2
+training_images\tcar\121.jpg 132,169,816,702,2
+training_images\tcar\1210.jpg 429,130,1383,1426,2
+training_images\tcar\1213.jpg 439,102,1380,1091,2
+training_images\tcar\1214.jpg 117,201,924,615,2
+training_images\tcar\1215.jpg 53,310,559,632,2 636,325,1130,627,2
+training_images\tcar\1218.jpg 151,201,689,633,2
+training_images\tcar\122.jpg 4,3,797,521,2
+training_images\tcar\1220.jpg 28,178,770,596,2
+training_images\tcar\1223.jpg 38,31,347,183,2
+training_images\tcar\1225.jpg 25,36,282,185,2
+training_images\tcar\1226.jpg 110,93,606,435,2
+training_images\tcar\1228.jpg 67,136,517,365,2
+training_images\tcar\1229.jpg 200,119,561,416,2
+training_images\tcar\1232.jpg 15,2,319,214,2
+training_images\tcar\1233.jpg 39,40,628,411,2
+training_images\tcar\1235.jpeg 181,123,316,325,2
+training_images\tcar\1236.jpg 15,160,330,367,2
+training_images\tcar\1237.jpeg 361,2,639,297,2 0,2,261,403,2
+training_images\tcar\1238.png 183,103,598,415,2
+training_images\tcar\1240.jpg 1,78,247,240,2 129,62,315,164,2
+training_images\tcar\1242.jpg 40,96,820,543,2
+training_images\tcar\1244.jpg 49,32,623,558,2
+training_images\tcar\1245.jpg 72,143,717,474,2
+training_images\tcar\1246.jpg 69,1,292,331,2
+training_images\tcar\1247.jpg 19,27,483,380,2
+training_images\tcar\1252.jpg 112,2,552,335,2
+training_images\tcar\1253.jpg 36,94,782,590,2
+training_images\tcar\1256.jpg 35,380,167,568,2
+training_images\tcar\1257.jpg 59,216,738,937,2
+training_images\tcar\1258.jpg 13,89,1205,854,2
+training_images\tcar\126.jpg 272,117,1749,1535,2
+training_images\tcar\1265.jpg 30,42,922,740,2
+training_images\tcar\1268.jpg 11,26,295,179,2
+training_images\tcar\127.jpg 9,3,1054,800,2
+training_images\tcar\1271.jpg 27,88,668,587,2
+training_images\tcar\1272.jpg 3,4,515,566,2
+training_images\tcar\1276.jpg 68,56,340,286,2
+training_images\tcar\1278.jpg 65,166,710,518,2
+training_images\tcar\128.jpg 35,134,576,387,2
+training_images\tcar\1281.JPG 7,160,499,487,2
+training_images\tcar\1284.jpg 62,44,374,360,2
+training_images\tcar\1285.jpg 140,65,465,255,2
+training_images\tcar\1286.jpg 3,14,304,209,2
+training_images\tcar\1288.jpg 11,15,773,458,2
+training_images\tcar\1289.jpg 125,119,369,490,2
+training_images\tcar\129.jpg 38,37,463,305,2
+training_images\tcar\1290.jpg 8,112,581,425,2
+training_images\tcar\1291.jpg 2,49,487,409,2
+training_images\tcar\1292.jpg 9,270,736,584,2
+training_images\tcar\1296.jpg 3,77,498,532,2
+training_images\tcar\1297.jpg 150,104,596,413,2
+training_images\tcar\1299.jpg 31,6,392,287,2
+training_images\tcar\130.jpg 38,54,1843,1432,2
+training_images\tcar\1301.jpg 9,7,526,576,2 403,3,1022,546,2
+training_images\tcar\1302.jpg 87,73,345,306,2
+training_images\tcar\1304.jpg 86,187,457,397,2
+training_images\tcar\1305.jpg 19,108,288,321,2
+training_images\tcar\1306.jpg 3,149,362,526,2
+training_images\tcar\1307.jpg 192,8,861,638,2
+training_images\tcar\1308.jpg 63,75,701,393,2
+training_images\tcar\1309.jpg 48,91,875,582,2
+training_images\tcar\131.jpg 19,20,441,372,2
+training_images\tcar\1310.jpg 6,30,597,379,2
+training_images\tcar\1311.jpg 102,110,405,320,2
+training_images\tcar\1313.png 23,16,367,294,2
+training_images\tcar\1314.jpeg 41,128,565,402,2
+training_images\tcar\1315.jpg 37,61,462,446,2
+training_images\tcar\1317.jpg 112,107,598,440,2
+training_images\tcar\1318.jpg 2,68,540,529,2
+training_images\tcar\132.jpg 24,34,579,354,2
+training_images\tcar\1320.jpeg 7,48,515,381,2
+training_images\tcar\1321.jpg 4,3,337,277,2
+training_images\tcar\1322.jpg 129,66,352,310,2 331,105,479,270,2 3,62,163,359,2
+training_images\tcar\1323.jpg 132,109,750,568,2
+training_images\tcar\1326.jpg 25,56,201,326,2 275,42,471,353,2
+training_images\tcar\1327.jpg 2,132,596,527,2
+training_images\tcar\1328.jpg 2,19,598,526,2
+training_images\tcar\1329.jpg 115,2,653,319,2
+training_images\tcar\133.jpg 16,88,294,216,2
+training_images\tcar\1330.jpg 62,145,979,598,2
+training_images\tcar\1334.jpg 18,37,365,279,2
+training_images\tcar\1336.jpg 5,131,591,443,2
+training_images\tcar\1337.jpg 22,192,402,400,2
+training_images\tcar\1338.jpg 140,185,771,490,2
+training_images\tcar\1339.jpg 1,31,597,524,2
+training_images\tcar\134.jpg 4,62,303,243,2
+training_images\tcar\1342.jpg 45,208,777,570,2
+training_images\tcar\1343.jpg 4,28,391,308,2
+training_images\tcar\1347.png 5,21,406,253,2
+training_images\tcar\1348.jpg 3,36,439,274,2
+training_images\tcar\1349.jpg 4,44,598,498,2
+training_images\tcar\1350.jpeg 5,130,437,594,2
+training_images\tcar\1352.jpg 11,111,691,605,2
+training_images\tcar\1354.jpg 10,191,635,837,2
+training_images\tcar\1355.jpg 6,30,455,406,2
+training_images\tcar\1356.jpg 104,17,562,337,2
+training_images\tcar\1357.jpg 5,19,335,290,2
+training_images\tcar\136.jpg 81,115,818,548,2
+training_images\tcar\1361.jpg 20,114,621,346,2
+training_images\tcar\1363.jpg 36,30,632,387,2
+training_images\tcar\1365.jpg 19,92,599,474,2
+training_images\tcar\1366.jpg 26,117,323,264,2
+training_images\tcar\1367.jpg 7,14,628,421,2
+training_images\tcar\1369.jpg 118,147,333,309,2
+training_images\tcar\137.jpg 15,27,586,385,2
+training_images\tcar\1371.jpg 5,133,739,663,2
+training_images\tcar\1373.jpg 5,4,447,379,2
+training_images\tcar\1374.jpg 63,32,277,297,2
+training_images\tcar\1375.jpg 59,51,325,315,2
+training_images\tcar\1376.jpg 4,46,395,267,2
+training_images\tcar\138.jpg 149,117,1765,1323,2
+training_images\tcar\1380.jpg 310,243,621,558,2
+training_images\tcar\1382.jpg 13,108,537,402,2
+training_images\tcar\139.gif 3,13,500,395,2
+training_images\tcar\1391.jpg 6,310,280,616,2 293,315,523,612,2 536,323,731,602,2
+training_images\tcar\1394.jpg 80,85,319,390,2
+training_images\tcar\1396.jpg 107,50,585,490,2
+training_images\tcar\1398.jpg 34,4,569,296,2
+training_images\tcar\140.jpg 30,12,584,422,2
+training_images\tcar\1408.jpg 55,100,630,446,2
+training_images\tcar\141.jpg 25,6,374,254,2
+training_images\tcar\1416.jpg 46,18,239,197,2
+training_images\tcar\1417.jpg 36,21,272,177,2
+training_images\tcar\142.jpeg 14,32,533,268,2
+training_images\tcar\1438.jpg 37,216,279,500,2 264,209,470,464,2
+training_images\tcar\1439.jpg 87,6,485,291,2
+training_images\tcar\144.jpg 14,9,745,540,2
+training_images\tcar\1440.jpg 111,26,530,398,2
+training_images\tcar\1443.jpg 5,8,421,263,2
+training_images\tcar\1445.jpg 44,57,745,456,2
+training_images\tcar\145.jpg 23,38,479,460,2
+training_images\tcar\1455.jpg 13,10,429,268,2
+training_images\tcar\146.jpg 67,220,962,616,2
+training_images\tcar\1460.jpg 44,26,268,209,2
+training_images\tcar\1463.jpg 61,56,194,157,2
+training_images\tcar\1465.jpg 53,27,270,202,2
+training_images\tcar\1466.jpg 41,18,264,206,2
+training_images\tcar\147.jpg 186,249,1676,1314,2
+training_images\tcar\1471.jpg 3,25,279,197,2
+training_images\tcar\1476.jpg 22,15,271,174,2
+training_images\tcar\1478.jpg 48,58,251,173,2
+training_images\tcar\148.jpg 65,7,821,627,2
+training_images\tcar\1482.jpg 39,47,188,182,2
+training_images\tcar\1483.jpg 57,30,269,170,2
+training_images\tcar\1486.jpeg 15,24,345,209,2
+training_images\tcar\1487.jpg 6,5,204,171,2
+training_images\tcar\1488.jpg 62,98,411,532,2 488,83,815,542,2 842,87,1168,541,2
+training_images\tcar\149.jpg 25,217,764,678,2
+training_images\tcar\1493.jpg 296,153,1780,1303,2
+training_images\tcar\1495.jpg 41,186,786,642,2
+training_images\tcar\15.jpg 86,134,630,558,2
+training_images\tcar\150.jpg 102,23,959,610,2
+training_images\tcar\151.jpg 19,10,510,324,2
+training_images\tcar\1517.jpg 213,93,422,375,2
+training_images\tcar\152.jpg 22,93,525,391,2
+training_images\tcar\1522.jpg 251,155,400,409,2
+training_images\tcar\1524.jpg 55,64,434,357,2
+training_images\tcar\153.JPG 53,67,1010,748,2
+training_images\tcar\1533.jpg 396,164,840,642,2
+training_images\tcar\1535.jpg 111,314,745,1192,2
+training_images\tcar\1539.png 543,124,777,432,2
+training_images\tcar\154.jpg 34,141,782,483,2
+training_images\tcar\1543.jpg 481,216,970,728,2
+training_images\tcar\1544.jpg 227,149,867,784,2 828,170,1196,509,2 1,189,272,530,2
+training_images\tcar\1547.jpg 531,200,1088,630,2 193,211,520,619,2
+training_images\tcar\1548.jpg 826,297,1101,652,2 580,330,805,645,2 316,333,561,653,2 37,334,293,648,2
+training_images\tcar\1550.jpg 282,211,954,649,2
+training_images\tcar\1551.jpg 503,321,886,579,2 337,316,496,552,2
+training_images\tcar\156.jpg 25,145,738,531,2
+training_images\tcar\1567.jpg 204,14,936,596,2
+training_images\tcar\157.jpg 56,204,1006,604,2
+training_images\tcar\1572.jpg 29,264,255,490,2 259,271,466,485,2 462,277,651,478,2 648,277,816,473,2
+training_images\tcar\1574.jpg 130,294,827,931,2
+training_images\tcar\158.jpg 18,147,742,575,2
+training_images\tcar\1583.jpg 12,3,298,224,2
+training_images\tcar\1588.jpg 105,204,363,383,2
+training_images\tcar\159.jpg 35,351,1825,1311,2
+training_images\tcar\1596.jpg 66,100,285,403,2
+training_images\tcar\16.jpg 6,215,1021,801,2
+training_images\tcar\161.jpg 225,170,1477,884,2
+training_images\tcar\1622.jpg 364,127,581,397,2 218,148,337,316,2
+training_images\tcar\163.jpg 158,597,1520,1316,2
+training_images\tcar\1630.jpg 41,102,851,661,2
+training_images\tcar\1633.jpg 39,22,957,799,2
+training_images\tcar\1638.jpg 44,137,944,699,2
+training_images\tcar\1639.jpg 69,318,1242,1078,2
+training_images\tcar\164.jpg 114,201,922,599,2
+training_images\tcar\1649.jpg 145,54,843,703,2
+training_images\tcar\165.jpg 25,6,594,497,2
+training_images\tcar\1650.jpg 215,99,331,227,2
+training_images\tcar\166.jpg 15,66,599,383,2
+training_images\tcar\1662.jpg 247,99,866,619,2
+training_images\tcar\1664.jpg 111,131,367,297,2
+training_images\tcar\1667.jpg 36,45,559,404,2
+training_images\tcar\167.jpg 221,231,1096,945,2
+training_images\tcar\168.jpg 27,8,512,305,2
+training_images\tcar\1683.jpg 26,72,415,378,2
+training_images\tcar\1687.jpg 45,168,196,376,2 295,184,406,330,2 443,189,579,310,2
+training_images\tcar\1694.jpg 9,120,496,466,2
+training_images\tcar\17.jpg 6,263,1159,815,2
+training_images\tcar\170.jpg 5,166,792,522,2
+training_images\tcar\1712.jpg 436,141,568,333,2
+training_images\tcar\1717.png 268,222,450,440,2 489,207,845,468,2
+training_images\tcar\1719.jpg 321,187,514,339,2 209,169,310,297,2
+training_images\tcar\1726.jpg 69,55,496,496,2
+training_images\tcar\1735.jpg 37,106,693,366,2
+training_images\tcar\1740.JPG 341,190,465,349,2
+training_images\tcar\1743.jpg 130,119,379,476,2
+training_images\tcar\1753.jpg 49,101,316,276,2
+training_images\tcar\1755.jpg 37,63,546,431,2
+training_images\tcar\1758.jpg 132,65,346,377,2
+training_images\tcar\1760.jpg 13,78,288,311,2
+training_images\tcar\1779.jpg 161,2,433,312,2
+training_images\tcar\178.jpg 92,49,495,312,2
+training_images\tcar\1784.jpg 92,1,394,268,2
+training_images\tcar\1786.jpg 410,173,680,434,2 289,194,423,339,2
+training_images\tcar\1793.jpg 53,37,263,190,2
+training_images\tcar\18.jpg 119,111,1040,888,2
+training_images\tcar\182.jpg 272,236,1700,1702,2
+training_images\tcar\183.jpg 19,10,794,398,2
+training_images\tcar\184.jpg 41,115,602,524,2
+training_images\tcar\185.jpg 69,46,346,241,2
+training_images\tcar\186.jpg 58,12,597,423,2
+training_images\tcar\187.jpg 152,12,841,713,2
+training_images\tcar\188.jpg 80,280,1841,1759,2
+training_images\tcar\189.jpg 27,88,442,364,2
+training_images\tcar\19.jpg 16,87,588,417,2
+training_images\tcar\190.jpg 205,367,1877,1066,2
+training_images\tcar\191.jpg 75,23,1104,678,2
+training_images\tcar\192.jpg 46,3,435,358,2
+training_images\tcar\193.jpg 72,155,846,681,2
+training_images\tcar\194.jpg 9,186,1908,1410,2
+training_images\tcar\196.jpg 90,29,1019,680,2
+training_images\tcar\197.jpg 37,31,696,698,2
+training_images\tcar\198.jpg 460,267,2030,1487,2
+training_images\tcar\2.jpg 27,76,463,377,2
+training_images\tcar\20.jpg 70,67,529,445,2
+training_images\tcar\200.jpg 2,117,414,554,2
+training_images\tcar\201.jpg 410,81,911,425,2
+training_images\tcar\202.jpg 479,182,767,512,2 725,200,897,410,2 2,157,486,762,2 859,203,974,375,2 948,213,1031,351,2
+training_images\tcar\203.jpg 238,124,587,596,2
+training_images\tcar\207.jpg 41,35,765,505,2
+training_images\tcar\208.jpg 4,34,268,189,2
+training_images\tcar\209.jpg 9,5,311,345,2
+training_images\tcar\21.jpg 12,6,393,230,2
+training_images\tcar\210.jpg 44,25,892,782,2
+training_images\tcar\212.jpg 26,306,768,747,2
+training_images\tcar\214.jpg 180,125,1192,806,2
+training_images\tcar\215.jpg 10,41,498,446,2
+training_images\tcar\217.jpg 133,82,933,524,2
+training_images\tcar\218.jpg 98,52,681,547,2
+training_images\tcar\22.jpg 26,17,368,312,2
+training_images\tcar\223.jpg 50,190,553,489,2
+training_images\tcar\225.jpg 85,121,465,444,2
+training_images\tcar\226.jpg 277,65,474,315,2 107,72,271,292,2
+training_images\tcar\229.jpg 45,39,1245,674,2
+training_images\tcar\23.jpg 18,20,505,224,2
+training_images\tcar\230.jpg 86,28,961,632,2
+training_images\tcar\231.jpg 42,65,668,536,2
+training_images\tcar\232.jpg 13,7,575,537,2
+training_images\tcar\234.jpg 88,39,721,561,2
+training_images\tcar\236.jpg 367,198,1697,1365,2
+training_images\tcar\237.jpg 47,40,418,265,2
+training_images\tcar\240.jpg 51,44,597,387,2
+training_images\tcar\241.JPG 175,3,847,704,2
+training_images\tcar\242.jpg 233,407,3223,2001,2
+training_images\tcar\243.jpg 4,22,596,340,2
+training_images\tcar\244.jpg 43,50,790,411,2
+training_images\tcar\245.jpg 7,29,491,355,2
+training_images\tcar\246.jpg 131,259,700,622,2
+training_images\tcar\248.jpg 131,43,1086,683,2
+training_images\tcar\251.jpg 89,48,684,494,2
+training_images\tcar\252.jpg 35,142,484,487,2
+training_images\tcar\254.jpg 108,91,610,446,2
+training_images\tcar\256.jpg 81,43,385,391,2
+training_images\tcar\257.jpg 37,1,389,300,2
+training_images\tcar\258.jpg 90,68,551,394,2
+training_images\tcar\259.jpg 7,19,551,553,2
+training_images\tcar\260.jpg 48,62,731,555,2
+training_images\tcar\261.jpg 9,39,457,355,2
+training_images\tcar\262.jpg 2,119,317,560,2
+training_images\tcar\265.jpg 182,96,1382,960,2
+training_images\tcar\266.jpeg 50,33,577,394,2
+training_images\tcar\267.jpg 28,191,781,626,2
+training_images\tcar\268.jpg 138,187,931,598,2
+training_images\tcar\269.jpg 173,203,843,592,2
+training_images\tcar\27.jpg 1,87,310,222,2
+training_images\tcar\271.jpg 84,20,528,378,2
+training_images\tcar\273.jpg 66,93,558,425,2
+training_images\tcar\275.jpg 52,22,691,405,2
+training_images\tcar\276.jpg 77,31,544,375,2
+training_images\tcar\277.jpg 77,40,773,518,2
+training_images\tcar\28.jpg 348,144,1733,989,2
+training_images\tcar\281.jpg 2,13,358,228,2
+training_images\tcar\282.jpg 33,116,726,442,2
+training_images\tcar\283.jpg 154,68,755,487,2
+training_images\tcar\286.jpg 47,123,755,681,2
+training_images\tcar\287.jpg 6,46,689,429,2
+training_images\tcar\289.jpg 16,25,744,537,2
+training_images\tcar\29.jpg 5,44,293,277,2
+training_images\tcar\290.jpg 156,106,885,617,2
+training_images\tcar\291.jpg 50,372,1423,1171,2
+training_images\tcar\292.jpg 22,16,706,406,2
+training_images\tcar\294.jpg 169,153,649,698,2
+training_images\tcar\295.jpg 6,3,596,416,2
+training_images\tcar\296.jpg 13,62,485,497,2
+training_images\tcar\297.jpg 73,36,676,468,2
+training_images\tcar\298.jpg 38,16,515,346,2
+training_images\tcar\3.jpg 9,88,587,385,2
+training_images\tcar\30.jpg 149,59,950,575,2
+training_images\tcar\302.jpg 6,3,335,237,2
+training_images\tcar\303.jpg 6,103,488,393,2
+training_images\tcar\305.jpg 150,91,992,1092,2
+training_images\tcar\306.jpg 228,149,973,786,2
+training_images\tcar\307.jpg 66,18,957,607,2
+training_images\tcar\308.jpg 135,268,1002,740,2
+training_images\tcar\309.jpg 6,41,603,395,2
+training_images\tcar\31.jpg 5,149,791,640,2
+training_images\tcar\310.jpg 176,37,930,614,2
+training_images\tcar\314.jpg 15,506,1894,1353,2
+training_images\tcar\315.jpg 15,210,1158,706,2
+training_images\tcar\317.jpg 31,14,510,341,2
+training_images\tcar\32.jpg 18,128,393,506,2 396,125,580,402,2 547,125,682,339,2 662,130,748,300,2
+training_images\tcar\320.jpg 7,74,310,246,2
+training_images\tcar\321.jpg 11,1,352,216,2
+training_images\tcar\322.jpg 20,222,766,602,2
+training_images\tcar\323.jpg 79,283,1687,1318,2
+training_images\tcar\324.jpg 7,184,746,577,2
+training_images\tcar\327.jpg 36,165,786,633,2
+training_images\tcar\328.jpg 29,80,1068,572,2
+training_images\tcar\329.jpg 3,9,681,435,2
+training_images\tcar\33.jpg 61,56,939,575,2
+training_images\tcar\330.jpg 12,42,433,326,2
+training_images\tcar\331.jpg 54,3,980,623,2
+training_images\tcar\332.jpg 71,20,551,422,2
+training_images\tcar\333.jpg 6,10,1014,566,2
+training_images\tcar\335.jpg 8,26,738,345,2
+training_images\tcar\336.jpg 122,50,843,716,2
+training_images\tcar\338.jpeg 1,1,636,532,2
+training_images\tcar\339.jpg 46,52,483,375,2
+training_images\tcar\340.jpg 97,27,850,440,2
+training_images\tcar\342.jpg 4,38,736,394,2
+training_images\tcar\343.jpg 101,75,627,309,2
+training_images\tcar\344.jpg 16,39,453,326,2
+training_images\tcar\345.jpg 14,46,494,393,2
+training_images\tcar\347.jpg 27,244,1166,801,2
+training_images\tcar\348.jpg 102,46,714,538,2
+training_images\tcar\351.jpg 10,67,669,412,2
+training_images\tcar\354.jpg 9,35,307,273,2
+training_images\tcar\356.jpg 128,289,768,921,2
+training_images\tcar\358.jpg 63,92,624,494,2
+training_images\tcar\36.jpg 145,165,1110,776,2
+training_images\tcar\360.jpg 258,254,1172,740,2
+training_images\tcar\362.gif 5,94,674,485,2
+training_images\tcar\363.png 9,40,436,632,2
+training_images\tcar\368.jpg 44,26,358,227,2
+training_images\tcar\370.jpg 162,75,659,495,2
+training_images\tcar\373.jpg 8,47,305,250,2
+training_images\tcar\374.jpg 25,20,525,437,2
+training_images\tcar\375.jpg 9,49,996,618,2
+training_images\tcar\376.jpg 86,95,641,478,2
+training_images\tcar\377.jpg 22,15,1821,1063,2
+training_images\tcar\38.jpg 183,5,1132,873,2
+training_images\tcar\381.jpg 108,179,776,598,2
+training_images\tcar\382.jpg 69,49,735,614,2
+training_images\tcar\383.jpg 1,17,597,299,2
+training_images\tcar\385.jpg 40,53,354,256,2
+training_images\tcar\386.jpg 24,63,636,418,2
+training_images\tcar\387.jpg 28,57,543,362,2
+training_images\tcar\388.jpg 32,78,420,368,2
+training_images\tcar\389.jpeg 52,29,353,227,2
+training_images\tcar\39.jpg 47,172,752,627,2
+training_images\tcar\390.jpg 18,101,488,294,2
+training_images\tcar\391.jpg 22,96,610,441,2
+training_images\tcar\393.jpg 1,120,447,387,2
+training_images\tcar\396.jpg 73,69,631,494,2
+training_images\tcar\397.jpg 5,33,780,405,2
+training_images\tcar\4.jpg 3,5,797,485,2
+training_images\tcar\40.jpg 101,334,1811,1178,2
+training_images\tcar\401.jpg 197,216,1693,1184,2
+training_images\tcar\402.jpg 44,8,638,534,2
+training_images\tcar\405.jpg 5,23,781,390,2
+training_images\tcar\408.jpg 75,60,418,309,2
+training_images\tcar\409.jpg 6,5,763,497,2
+training_images\tcar\41.jpg 42,159,748,653,2
+training_images\tcar\410.jpg 101,129,966,657,2
+training_images\tcar\415.jpg 12,26,282,217,2
+training_images\tcar\417.jpg 66,157,735,740,2
+training_images\tcar\420.jpg 4,212,797,677,2
+training_images\tcar\421.jpg 100,146,1454,898,2
+training_images\tcar\426.png 34,72,585,362,2
+training_images\tcar\427.jpg 95,66,923,769,2
+training_images\tcar\428.jpg 146,98,867,543,2
+training_images\tcar\434.jpeg 3,35,535,274,2
+training_images\tcar\435.jpg 9,112,745,727,2
+training_images\tcar\436.jpg 95,30,522,420,2
+training_images\tcar\438.jpg 25,27,794,558,2
+training_images\tcar\444.jpg 97,123,692,640,2
+training_images\tcar\445.jpg 106,133,1199,893,2
+training_images\tcar\446.jpg 4,24,309,297,2
+training_images\tcar\448.jpg 14,21,1265,721,2
+training_images\tcar\449.jpg 4,64,348,211,2
+training_images\tcar\450.jpg 197,213,1735,1123,2
+training_images\tcar\452.png 26,34,494,331,2
+training_images\tcar\453.jpg 33,222,732,595,2
+training_images\tcar\455.jpg 13,50,296,225,2
+training_images\tcar\456.jpg 8,196,734,529,2
+training_images\tcar\459.jpg 111,60,425,270,2
+training_images\tcar\460.jpg 6,145,373,317,2
+training_images\tcar\461.jpg 10,1,394,293,2
+training_images\tcar\463.jpg 306,18,768,443,2 147,42,338,368,2 10,59,172,317,2
+training_images\tcar\467.jpg 25,79,318,265,2
+training_images\tcar\472.jpg 12,8,392,320,2
+training_images\tcar\473.jpg 25,66,582,288,2
+training_images\tcar\475.jpg 45,191,1134,803,2
+training_images\tcar\477.jpg 28,172,745,550,2
+training_images\tcar\480.jpg 3,65,308,246,2
+training_images\tcar\481.jpg 21,45,788,484,2
+training_images\tcar\483.jpg 8,36,543,294,2
+training_images\tcar\485.jpg 69,111,603,417,2
+training_images\tcar\486.jpg 9,12,695,399,2
+training_images\tcar\488.jpeg 10,27,379,235,2
+training_images\tcar\489.jpg 44,13,445,311,2
+training_images\tcar\490.jpg 2,88,284,260,2
+training_images\tcar\493.jpg 2,9,793,461,2
+training_images\tcar\494.jpg 10,26,498,337,2
+training_images\tcar\496.jpg 123,54,636,509,2
+training_images\tcar\5.jpg 147,224,676,825,2 624,216,919,630,2 851,244,1050,493,2
+training_images\tcar\50.jpg 545,306,1066,704,2
+training_images\tcar\501.jpg 56,4,448,270,2
+training_images\tcar\502.jpg 247,263,821,602,2
+training_images\tcar\503.jpg 13,23,491,296,2
+training_images\tcar\508.jpeg 56,37,505,418,2
+training_images\tcar\510.jpg 606,106,955,651,2 138,149,592,606,2
+training_images\tcar\514.jpg 20,230,944,726,2
+training_images\tcar\517.jpg 12,88,486,665,2
+training_images\tcar\519.jpg 2,64,308,242,2
+training_images\tcar\52.jpg 15,91,288,215,2
+training_images\tcar\523.jpg 1,9,947,548,2
+training_images\tcar\525.jpg 54,30,491,427,2
+training_images\tcar\528.jpg 147,66,700,565,2
+training_images\tcar\531.jpg 92,45,527,444,2
+training_images\tcar\532.jpg 3,106,492,394,2
+training_images\tcar\534.jpg 2,73,540,539,2
+training_images\tcar\54.jpeg 9,64,494,287,2
+training_images\tcar\541.jpg 7,47,301,283,2
+training_images\tcar\546.png 4,28,526,395,2
+training_images\tcar\551.jpg 14,67,794,696,2
+training_images\tcar\553.jpg 2,14,499,309,2
+training_images\tcar\555.jpg 12,4,667,392,2
+training_images\tcar\559.jpg 125,203,388,322,2
+training_images\tcar\560.jpg 14,59,778,420,2
+training_images\tcar\564.jpg 40,117,853,737,2
+training_images\tcar\566.jpg 17,119,605,462,2
+training_images\tcar\57.png 10,31,1054,652,2
+training_images\tcar\570.jpg 51,70,447,318,2
+training_images\tcar\575.jpg 4,137,794,683,2
+training_images\tcar\577.jpg 140,22,1872,1162,2
+training_images\tcar\578.jpg 200,324,1652,1044,2
+training_images\tcar\580.jpg 181,286,1751,1280,2
+training_images\tcar\581.jpg 73,142,950,551,2
+training_images\tcar\582.jpg 295,142,808,573,2
+training_images\tcar\583.jpg 14,147,794,650,2
+training_images\tcar\584.jpg 272,133,843,718,2 805,149,1106,479,2
+training_images\tcar\585.jpg 165,12,1690,1044,2
+training_images\tcar\587.jpg 151,88,978,585,2
+training_images\tcar\588.jpg 25,353,1904,1350,2
+training_images\tcar\589.jpg 17,214,788,726,2
+training_images\tcar\59.jpg 85,79,1114,758,2
+training_images\tcar\591.jpg 461,9,1225,1324,2 1187,15,1865,980,2
+training_images\tcar\592.jpg 203,114,825,788,2
+training_images\tcar\595.jpg 88,144,693,646,2
+training_images\tcar\597.jpg 104,132,633,655,2
+training_images\tcar\598.jpeg 148,30,701,372,2
+training_images\tcar\599.jpg 99,160,579,384,2
+training_images\tcar\60.jpg 5,35,404,272,2
+training_images\tcar\601.jpg 6,20,1952,984,2
+training_images\tcar\602.jpg 269,87,1106,638,2
+training_images\tcar\603.jpg 97,89,1095,819,2
+training_images\tcar\605.jpg 64,42,653,380,2
+training_images\tcar\606.jpg 145,25,1370,919,2
+training_images\tcar\609.jpg 23,8,252,205,2
+training_images\tcar\610.jpg 81,5,284,205,2
+training_images\tcar\611.jpg 96,62,611,470,2
+training_images\tcar\614.jpg 54,29,455,308,2
+training_images\tcar\615.jpg 137,190,971,716,2
+training_images\tcar\62.jpg 89,120,1900,1413,2
+training_images\tcar\620.jpg 10,53,599,362,2
+training_images\tcar\624.jpg 20,101,612,452,2
+training_images\tcar\626.jpg 16,159,744,689,2
+training_images\tcar\627.jpg 63,83,565,390,2
+training_images\tcar\628.jpg 3,76,274,214,2
+training_images\tcar\63.jpg 235,38,1814,1321,2
+training_images\tcar\630.jpg 15,28,847,554,2
+training_images\tcar\631.jpg 9,11,630,359,2
+training_images\tcar\633.jpg 1,96,481,400,2
+training_images\tcar\635.png 27,21,333,209,2
+training_images\tcar\637.jpg 61,19,598,420,2
+training_images\tcar\638.jpg 63,54,426,310,2
+training_images\tcar\641.jpg 31,85,342,344,2
+training_images\tcar\644.jpg 152,30,933,621,2
+training_images\tcar\647.jpg 17,10,342,246,2
+training_images\tcar\648.jpg 9,14,515,315,2
+training_images\tcar\650.jpg 10,12,309,309,2
+training_images\tcar\652.jpg 107,73,282,292,2
+training_images\tcar\653.jpg 132,2,648,458,2
+training_images\tcar\655.jpg 4,37,455,357,2
+training_images\tcar\656.jpg 97,75,626,310,2
+training_images\tcar\658.jpg 3,95,594,377,2
+training_images\tcar\659.jpg 43,74,426,369,2
+training_images\tcar\662.jpg 50,101,539,367,2
+training_images\tcar\663.jpg 91,77,552,398,2
+training_images\tcar\665.jpg 6,110,569,384,2
+training_images\tcar\667.jpg 47,79,255,233,2
+training_images\tcar\668.jpg 263,53,655,288,2
+training_images\tcar\669.jpg 57,36,985,622,2
+training_images\tcar\671.jpg 13,135,798,661,2
+training_images\tcar\673.jpg 50,155,745,513,2
+training_images\tcar\675.jpg 36,89,289,257,2
+training_images\tcar\678.jpg 9,52,476,341,2
+training_images\tcar\681.jpg 4,22,648,302,2
+training_images\tcar\683.jpg 7,112,617,352,2
+training_images\tcar\684.jpg 3,154,600,471,2
+training_images\tcar\686.jpg 16,76,382,333,2
+training_images\tcar\687.jpg 32,74,657,410,2
+training_images\tcar\688.jpg 17,27,709,469,2
+training_images\tcar\690.jpg 33,53,614,308,2
+training_images\tcar\693.jpg 1,175,800,627,2
+training_images\tcar\698.jpg 38,5,425,414,2
+training_images\tcar\699.jpg 25,62,571,392,2
+training_images\tcar\7.jpg 38,127,1061,596,2
+training_images\tcar\701.jpg 115,80,417,345,2
+training_images\tcar\703.jpg 19,8,382,249,2
+training_images\tcar\708.jpg 20,108,646,388,2
+training_images\tcar\709.jpg 6,228,740,622,2
+training_images\tcar\712.jpg 12,77,452,505,2
+training_images\tcar\713.jpeg 46,25,375,251,2
+training_images\tcar\715.jpg 57,12,487,327,2
+training_images\tcar\716.png 32,10,450,345,2
+training_images\tcar\718.jpg 3,135,592,524,2
+training_images\tcar\719.jpg 112,155,717,693,2
+training_images\tcar\724.jpg 74,120,768,635,2
+training_images\tcar\730.jpg 21,105,585,570,2
+training_images\tcar\737.jpg 19,170,741,689,2
+training_images\tcar\738.jpg 68,80,564,381,2
+training_images\tcar\739.jpg 3,73,273,216,2
+training_images\tcar\741.jpg 12,36,845,550,2
+training_images\tcar\742.jpg 10,14,636,360,2
+training_images\tcar\745.png 21,22,335,213,2
+training_images\tcar\749.jpg 41,86,342,346,2
+training_images\tcar\754.jpg 13,16,340,242,2
+training_images\tcar\755.jpg 16,12,515,312,2
+training_images\tcar\756.png 6,15,628,398,2
+training_images\tcar\758.jpg 10,9,308,308,2
+training_images\tcar\760.jpg 120,1,647,451,2
+training_images\tcar\766.jpg 2,113,571,382,2
+training_images\tcar\767.jpg 67,11,612,411,2
+training_images\tcar\768.jpg 46,82,256,233,2
+training_images\tcar\769.jpg 144,192,781,613,2
+training_images\tcar\77.jpg 18,97,302,348,2
+training_images\tcar\770.jpg 2,8,279,207,2
+training_images\tcar\771.jpg 21,26,637,621,2
+training_images\tcar\773.jpg 135,278,806,652,2
+training_images\tcar\774.jpg 104,41,578,490,2
+training_images\tcar\776.jpg 64,43,988,627,2
+training_images\tcar\778.jpg 17,123,794,655,2
+training_images\tcar\780.jpg 1,31,298,208,2
+training_images\tcar\782.jpg 76,26,499,359,2
+training_images\tcar\786.jpg 29,125,848,542,2
+training_images\tcar\789.jpg 14,123,484,420,2
+training_images\tcar\790.jpg 59,137,553,440,2
+training_images\tcar\791.jpg 35,125,567,408,2
+training_images\tcar\792.jpg 69,96,629,430,2
+training_images\tcar\794.jpg 25,62,484,315,2
+training_images\tcar\795.jpg 174,144,676,587,2
+training_images\tcar\796.jpg 84,98,1010,726,2
+training_images\tcar\8.jpg 312,264,1713,1365,2
+training_images\tcar\806.jpg 8,147,797,645,2
+training_images\tcar\811.jpg 24,202,897,739,2
+training_images\tcar\812.jpg 110,122,900,557,2
+training_images\tcar\817.jpg 28,41,587,400,2
+training_images\tcar\818.jpg 5,23,499,355,2
+training_images\tcar\820.jpg 19,47,293,260,2
+training_images\tcar\822.jpg 64,45,992,610,2
+training_images\tcar\823.png 69,21,434,304,2
+training_images\tcar\824.png 29,34,626,430,2
+training_images\tcar\825.jpg 0,26,529,359,2
+training_images\tcar\827.jpg 194,95,1738,1155,2
+training_images\tcar\834.jpg 77,140,819,648,2
+training_images\tcar\843.jpg 18,91,1017,653,2
+training_images\tcar\845.jpg 13,19,989,913,2
+training_images\tcar\846.jpg 105,117,1795,977,2
+training_images\tcar\847.jpg 45,101,1003,723,2
+training_images\tcar\849.jpg 101,166,674,650,2
+training_images\tcar\850.jpg 2,186,1235,810,2
+training_images\tcar\852.jpg 60,101,1907,1324,2
+training_images\tcar\856.jpg 135,104,822,704,2
+training_images\tcar\859.jpg 115,52,937,643,2
+training_images\tcar\860.jpg 2,126,794,668,2
+training_images\tcar\863.jpg 98,159,1818,1375,2
+training_images\tcar\865.jpg 15,25,983,706,2
+training_images\tcar\869.jpg 11,205,973,686,2
+training_images\tcar\876.jpg 15,2,567,324,2
+training_images\tcar\878.jpg 23,30,556,429,2
+training_images\tcar\882.jpg 41,55,552,378,2
+training_images\tcar\883.png 29,28,605,376,2
+training_images\tcar\884.jpg 28,52,550,368,2
+training_images\tcar\891.jpg 22,27,443,262,2
+training_images\tcar\894.jpg 7,40,410,280,2
+training_images\tcar\897.jpg 24,10,629,384,2
+training_images\tcar\9.jpg 63,10,603,457,2
+training_images\tcar\900.jpg 98,148,765,452,2
+training_images\tcar\904.jpg 10,22,766,427,2
+training_images\tcar\907.jpg 41,34,545,388,2
+training_images\tcar\912.jpg 74,64,606,458,2
+training_images\tcar\915.jpg 2,37,433,296,2
+training_images\tcar\917.jpg 60,85,414,314,2
+training_images\tcar\918.jpg 30,102,617,589,2
+training_images\tcar\920.jpg 71,121,517,339,2
+training_images\tcar\922.jpg 16,28,588,416,2
+training_images\tcar\924.jpg 9,39,341,245,2
+training_images\tcar\928.png 13,12,248,151,2
+training_images\tcar\937.jpg 24,36,477,319,2
+training_images\tcar\939.jpg 12,27,473,324,2
+training_images\tcar\940.jpg 2,32,599,382,2
+training_images\tcar\946.jpg 61,36,527,397,2
+training_images\tcar\949.jpg 17,99,287,241,2
+training_images\tcar\954.jpg 164,87,359,316,2
+training_images\tcar\956.jpg 33,108,629,409,2
+training_images\tcar\961.jpg 1,63,773,459,2
+training_images\tcar\967.jpg 6,3,800,405,2
+training_images\tcar\968.png 3,31,746,493,2
+training_images\tcar\973.jpg 25,232,1894,1213,2
+training_images\tcar\974.jpg 78,115,984,692,2
+training_images\tcar\976.jpg 186,171,921,732,2
+training_images\tcar\977.jpg 3,40,733,567,2
+training_images\tcar\978.jpg 34,69,556,375,2
+training_images\tcar\981.jpg 36,104,655,437,2
+training_images\tcar\982.jpg 8,37,764,366,2
+training_images\tcar\984.jpg 28,79,716,573,2
+training_images\tcar\987.jpg 28,69,286,266,2
+training_images\tcar\988.jpg 10,59,400,293,2
+training_images\tcar\991.jpg 135,42,673,405,2
+training_images\tcar\995.jpg 23,3,531,300,2
+training_images\tcar\996.jpg 21,58,753,581,2
+training_images\tcar\998.jpg 20,20,934,481,2
